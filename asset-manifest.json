@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.add627c7.css",
-    "main.js": "/static/js/main.ba7727e4.js",
+    "main.css": "/static/css/main.3bb27e6b.css",
+    "main.js": "/static/js/main.dea3349d.js",
     "static/js/787.f3ae72f6.chunk.js": "/static/js/787.f3ae72f6.chunk.js",
     "static/media/blog_img.png": "/static/media/blog_img.3d812ebcbe357819b4ca.png",
     "static/media/remote_job_board_img.png": "/static/media/remote_job_board_img.15329729bd6d11931989.png",
@@ -16,12 +16,12 @@
     "static/media/github_PNG40.png": "/static/media/github_PNG40.1ff6d9646165b7f34af9.png",
     "static/media/NS Logo 2@4x.png": "/static/media/NS Logo 2@4x.741b2f740cd7c331ecab.png",
     "index.html": "/index.html",
-    "main.add627c7.css.map": "/static/css/main.add627c7.css.map",
-    "main.ba7727e4.js.map": "/static/js/main.ba7727e4.js.map",
+    "main.3bb27e6b.css.map": "/static/css/main.3bb27e6b.css.map",
+    "main.dea3349d.js.map": "/static/js/main.dea3349d.js.map",
     "787.f3ae72f6.chunk.js.map": "/static/js/787.f3ae72f6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.add627c7.css",
-    "static/js/main.ba7727e4.js"
+    "static/css/main.3bb27e6b.css",
+    "static/js/main.dea3349d.js"
   ]
 }
